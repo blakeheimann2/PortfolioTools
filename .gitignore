@@ -1,0 +1,7 @@
+access_dict.txt
+config.py
+auth
+*.png
+*.log
+/logs
+/outputs
